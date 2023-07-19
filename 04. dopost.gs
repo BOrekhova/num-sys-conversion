@@ -16,7 +16,7 @@ function doPost(e) {
 
     if (cbData == 'number') {
 
-      
+      sendText(chatIdCb, 'YES!');
 
     }
 
