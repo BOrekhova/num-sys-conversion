@@ -5,7 +5,9 @@ function doPost(e) {
   if (contents.message) {
 
     let chatId = contents.message.from.id;
-    sendText(chatId, 'Welcome to Number System Conversion!', keyboard_text);
+
+    if (contents.message === '/start') sendText(chatId, 'Welcome to Number System Conversion Bot!', keyboard_text);
+    else sendText(chatId, 'Send me a Number.', keyboard_text);
 
   }
 
