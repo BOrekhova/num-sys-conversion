@@ -1,4 +1,7 @@
+👾 this project is still in progress and needs to be completed.
+
 # Number System Conversion
+![g](https://github.com/oebarbie/bot-sysconversion/blob/1d43486956ddc703fb9a65e54b644c77fc2d5293/image/front.png)  
 
 ## What is Number System?
 A number system is a method to represent numbers mathematically. It can use arithmetic operations to represent every number uniquely. To represent a number, it requires a base or radix.
